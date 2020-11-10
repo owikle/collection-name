@@ -7,8 +7,9 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+item_information,Item Information
 source,Source
-identifier,Source Identifier
+identifier,Source Identifier,true
 type,Type,
 format,Format,
 rights,Rights,
