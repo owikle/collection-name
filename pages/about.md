@@ -10,6 +10,22 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+## Example About Content
+
+The first sentence of my paragraph. 
+The second sentence of my paragraph.
+
+A new paragraph on my about page.
+
+A link to my [source code](https://github.com/owikle/collection-name)
+
+A list of things relevant to my collection:
+- thing one
+- thing two
+- thing three
+
+
+
 ## About the Collection
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
