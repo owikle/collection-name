@@ -8,7 +8,7 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Example About Content;About the Collection;About the About Page" %}
 
 ## Example About Content
 
@@ -24,6 +24,7 @@ A list of things relevant to my collection:
 - thing two
 - thing three
 
+{% include feature/item-figure.html objectid="psychiana031" width="50" %}
 
 
 ## About the Collection
