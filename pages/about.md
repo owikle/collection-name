@@ -26,6 +26,8 @@ A list of things relevant to my collection:
 
 {% include feature/item-figure.html objectid="psychiana031" width="50" %}
 
+{% include feature/item-pdf-embed.html objectid="psychiana045" width="50" caption="A pdf embed" %}
+
 
 ## About the Collection
 
